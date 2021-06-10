@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.InnovTeam.tambola.TambolaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.858 s - in com.InnovTeam.tambola.TambolaApplicationTests
